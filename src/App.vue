@@ -41,7 +41,6 @@ export default {
     }
   },
   created () {
-    alert('使用的vh在切入控制台时可能会有样式错误，请刷新一下！')
   },
   updated () {
     document.querySelectorAll('a').forEach(val => {

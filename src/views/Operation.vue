@@ -102,6 +102,7 @@ export default {
   box-sizing: border-box;
 }
 .container_child {
+  width: 100vw;
   padding: 20px 20px;
   .action_box {
     display: flex;
